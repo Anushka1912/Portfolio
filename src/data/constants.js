@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Anushka Manik Dhokale",
-  roles: ["AIML Developer", "Web Developer", "Flask Developer", "Programmer"],
+  roles: ["AIML Developer", "Web Developer", "Flask Developer", "Data Analyst"],
   description:
     "I’m a motivated AIML developer with a passion for tackling new challenges and delivering impactful solutions. With a strong commitment to learning and a growth mindset, I bring a positive approach and dedication to producing high-quality, efficient ML results.",
   github: "https://github.com/Anushka1912",
   resume:
-    "https://drive.google.com/file/d/1hYYn3rAGPm0EvqQNHQB7Dqpg5JR45CLT/view?usp=drive_link",
+    "https://drive.google.com/file/d/1AIP3X48wFIO6EHsBIfyqqUKsk6IHUg9i/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anushka-dhokale-893180229/",
   twitter: "https://x.com/Anushka_Dhokale?t=uxQ43Vj4RExG2HJTdHTOAw&s=08",
 };
